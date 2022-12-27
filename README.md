@@ -31,8 +31,6 @@ To set up a cron job to run the script at a specific time:
 Save and close the crontab file.
 
 ## Credits
-Script developed by [@balgaly](https://github.com/balgaly)
+Script developed by [@balgaly](https://github.com/balgaly) with guidance from [my assitant](https://chat.openai.com/chat)
 
 ImageMagick command line tool used for the conversion process.
-
-I hope this helps! Let me know if you have any other questions.
